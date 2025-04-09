@@ -1,0 +1,64 @@
+.darta{
+    background-color: rgb(255,255,255, 0.6);
+    height: 500px;
+    width: 750px;
+    margin-top: 190px;
+    border-radius: 15px;
+    color: rgb(56, 65, 70);
+    text-align: center;
+    padding-top: 0px;
+    font-size: 30px;
+}
+.tudo{
+    justify-content: center;
+    display: flex;
+    margin: 0px;
+    background-image: url(https://wallsneedlove.com/cdn/shop/products/w0263_1s_Nautical-Waves-Wallpaper-for-Walls-Waves-of-Chic_Repeating-Pattern-Sample-1.jpg?v=1604091534);
+    background-repeat: no-repeat;
+}
+input{
+    font: 20px;
+    padding-top: 2px;
+    padding: 15px;
+    border-radius: 10px;
+    width: 300px;
+}
+button{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+    color: rgba(182, 180, 180, 0.6);
+    width: 200px;
+    border: none;
+    background-color: rgb(238, 238, 238);
+    border-radius: 10px;
+    list-style-type: none;
+}
+.sair{
+    list-style-type: none;
+    padding-left: 690px;
+    font-size: 40px;
+    padding-bottom: 0%;
+}
+.japa{
+    text-decoration: none;
+    font-size: 22px;
+    list-style-type: none;
+    padding: 30px;
+    font-style: italic;
+}
+.suporte1{
+    background-image: url(https://wallsneedlove.com/cdn/shop/products/w0263_1s_Nautical-Waves-Wallpaper-for-Walls-Waves-of-Chic_Repeating-Pattern-Sample-1.jpg?v=1604091534);
+    padding-left: 750px;
+    padding-top: 120px;
+    color: rgb(56, 65, 70);
+
+}
+.suporte2{
+    padding-top: 10px;
+    color: rgb(56, 65, 70);
+}
+.suporte3{
+    padding-top: 15px;
+    padding-left: 65px;
+}
